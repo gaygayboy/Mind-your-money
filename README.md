@@ -1,2 +1,6 @@
-# Mind-your-money-
+# Mind-your-money
 个人管理资产的系统
+
+
+
+不知道做什么项目练手，就拿这个试试把
